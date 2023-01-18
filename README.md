@@ -5,6 +5,7 @@ that layer is used term in the field of deep learning or artificial neural netwo
 
 ## TensorFlow.js library
 that is library for training and deploying machine learning models in javascript 
+`npm i @tensorflow/tfjs`
 
 <img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-en.jpeg?3b7fccd728e29dc619e1bd8022bf71cf">
 
